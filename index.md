@@ -23,6 +23,4 @@ Some of my projects aim to pry at the above.
 
 Additionally, I'm motivated to develope technologies to change the way we 'see disease'. 
 
-Get in touch: 
-
 ## Get in touch: 
