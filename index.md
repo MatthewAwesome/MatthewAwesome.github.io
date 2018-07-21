@@ -25,4 +25,4 @@ Additionally, I'm motivated to develope technologies to change the way we 'see d
 
 Get in touch: 
 
-## STAY AWESOME!
+## Get in touch: 
