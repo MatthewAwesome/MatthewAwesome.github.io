@@ -24,3 +24,16 @@ Some of my projects aim to pry at the above.
 Additionally, I'm motivated to develope technologies to change the way we 'see disease'. 
 
 ## Get in touch: 
+
+* [Drop me a line](matthew.ellis23@gmail.com). (Email)
+
+* [Follow my adventure one photo at at time](https://www.instagram.com/matthew.awesome.23/). (Instagram). 
+
+* [Connect Professionally](https://www.linkedin.com/in/matthew-ellis-4a695446/). (Linkedin)
+
+* Or, if you're really curious: [Dive into my code on GitHub](https://github.com/MatthewAwesome). 
+
+
+
+
+
