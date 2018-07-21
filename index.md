@@ -25,7 +25,7 @@ Additionally, I'm motivated to develope technologies to change the way we 'see d
 
 ## Get in touch: 
 
-* [Drop me a line](matthew.ellis23@gmail.com). (Email)
+* <a href="mailto:someone@example.com>Drop me an Email.</a>
 
 * [Follow my adventure one photo at at time](https://www.instagram.com/matthew.awesome.23/). (Instagram). 
 
