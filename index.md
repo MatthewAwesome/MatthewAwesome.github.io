@@ -23,7 +23,7 @@ Some of my projects aim to pry at the above.
 
 Additionally, I'm motivated to develope technologies to change the way we 'see disease'. 
 
-{% if site.github_username %}
+{% if site.author.github_username %}
   <li>
     <a href="https://github.com/{{ site.github_username }}">
       <i class="fa fa-github"></i> GitHub
