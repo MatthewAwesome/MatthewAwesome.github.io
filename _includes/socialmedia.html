@@ -1,25 +1,23 @@
----
-layout: default
----
+
 <div class = 'socialbar'>
 	{% if site.author.email %}
     <a href="mailto:{{ site.author.email }}">
-      <i class="fa fa-envelope-square"></i>
+      <i class="fa fa-envelope-square fa-lg fw"></i>
     </a>
 	{% endif %}
 	{% if site.author.insta_username %}
     <a href="https://www.instagram.com/{{ site.author.insta_username }}">
-      <i class="fa fa-instagram"></i> 
+      <i class="fa fa-instagram fa-lg fw"></i> 
     </a>
 	{% endif %}
 	{% if site.author.linkedin_username %}
     <a href="https://www.linkedin.com/in/{{ site.author.linkedin_username }}">
-      <i class="fa fa-linkedin"></i> 
+      <i class="fa fa-linkedin fa-lg fw"></i> 
     </a>
 	{% endif %}
 	{% if site.author.github_username %}
     <a href="https://github.com/{{ site.author.github_username }}">
-      <i class="fa fa-github"></i> GitHub
+      <i class="fa fa-github fa-lg fw"></i> 
     </a>
 	{% endif %}
 </div>

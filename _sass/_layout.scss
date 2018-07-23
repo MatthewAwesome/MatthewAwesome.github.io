@@ -2,12 +2,16 @@
 //
 // Styles for managing the structural hierarchy of the site.
 
+
 .container {
-  max-width: 50rem;
-  padding-left:  1.5rem;
-  padding-right: 1.5rem;
+  max-width: 80%;
+  padding-left:  1.2rem;
+  padding-right: 1.2rem;
   margin-left:  auto;
   margin-right: auto;
+  background-color:white;
+  padding-top:5px; 
+  margin-top:10px; 
 }
 
 footer {
@@ -16,5 +20,6 @@ footer {
 
 .fa{
 	color:$gray-3; 
-	font-size:48px; 
+	font-size:80px; 
+	padding:3px 3px; 
 }

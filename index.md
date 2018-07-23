@@ -7,7 +7,7 @@ title: Home
   is canvas upon which to display such Ideas. 
 </p>
 
-## Neuroscience, Art and Learning: 
+<p class = "subhead">Neuroscience, Art and Learning</p>
 
 I hail from a interdiscplinary background, and my efforts span a plethora of traditionally unrelated fronts. 
 
@@ -19,34 +19,11 @@ done for humanity's Intellectual Assets?
 
 Some of my projects aim to pry at the above. 
 
-## Ophthalmic Imaging to Diagnose and Monitor Disease: 
+<p class = "subhead">Ophthalmic Imaging to Diagnose and Monitor Disease</p>
 
 Additionally, I'm motivated to develope technologies to change the way we 'see disease'. 
 
-## Get in touch: 
 
-<div class = 'socialbar'>
-	{% if site.author.email %}
-    <a href="mailto:{{ site.author.email }}">
-      <i class="fa fa-envelope-square fa-2x"></i>
-    </a>
-	{% endif %}
-	{% if site.author.insta_username %}
-    <a href="https://www.instagram.com/{{ site.author.insta_username }}">
-      <i class="fa fa-instagram fa-2x"></i> 
-    </a>
-	{% endif %}
-	{% if site.author.linkedin_username %}
-    <a href="https://www.linkedin.com/in/{{ site.author.linkedin_username }}">
-      <i class="fa fa-linkedin fa-2x"></i> 
-    </a>
-	{% endif %}
-	{% if site.author.github_username %}
-    <a href="https://github.com/{{ site.author.github_username }}">
-      <i class="fa fa-github fa-2x"></i> 
-    </a>
-	{% endif %}
-</div>
 
 
 
