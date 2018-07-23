@@ -28,22 +28,22 @@ Additionally, I'm motivated to develope technologies to change the way we 'see d
 <div class = 'socialbar'>
 	{% if site.author.email %}
     <a href="mailto:{{ site.author.email }}">
-      <i class="fa fa-envelope-square"></i>
+      <i style="color:$gray-3;" class="fa fa-envelope-square"></i>
     </a>
 	{% endif %}
 	{% if site.author.insta_username %}
     <a href="https://www.instagram.com/{{ site.author.insta_username }}">
-      <i class="fa fa-instagram"></i> 
+      <i style="color:$gray-3;" class="fa fa-instagram"></i> 
     </a>
 	{% endif %}
 	{% if site.author.linkedin_username %}
     <a href="https://www.linkedin.com/in/{{ site.author.linkedin_username }}">
-      <i class="fa fa-linkedin-in"></i> 
+      <i style="color:$gray-3;"  class="fa fa-linkedin"></i> 
     </a>
 	{% endif %}
 	{% if site.author.github_username %}
     <a href="https://github.com/{{ site.author.github_username }}">
-      <i class="fa fa-github"></i> 
+      <i style="color:$gray-3;" class="fa fa-github"></i> 
     </a>
 	{% endif %}
 </div>
