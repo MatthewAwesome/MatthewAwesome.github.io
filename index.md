@@ -23,24 +23,30 @@ Some of my projects aim to pry at the above.
 
 Additionally, I'm motivated to develope technologies to change the way we 'see disease'. 
 
-{% if site.author.github_username %}
-  <li>
-    <a href="https://github.com/{{ site.github_username }}">
-      <i class="fa fa-github"></i> GitHub
-    </a>
-  </li>
-{% endif %}
-
 ## Get in touch: 
 
-* [Drop me an Email.](mailto:matthew.p.ellis23@gmail.com)
-
-* [Follow my adventure one photo at at time](https://www.instagram.com/matthew.awesome.23/). (Instagram). 
-
-* [Connect Professionally](https://www.linkedin.com/in/matthew-ellis-4a695446/). (Linkedin)
-
-* Or, if you're really curious: [Dive into my code on GitHub](https://github.com/MatthewAwesome). 
-
+<div class = 'socialbar'>
+	{% if site.author.email %}
+    <a href="mailto:{{ site.author.email }}">
+      <i class="fa fa-envelope-square"></i>
+    </a>
+	{% endif %}
+	{% if site.author.insta_username %}
+    <a href="https://www.instagram.com/{{ site.author.insta_username }}">
+      <i class="fa fa-instagram"></i> 
+    </a>
+	{% endif %}
+	{% if site.author.linkedin_username %}
+    <a href="https://www.linkedin.com/in/{{ site.author.linkedin_username }}">
+      <i class="fa fa-linkedin-in"></i> 
+    </a>
+	{% endif %}
+	{% if site.author.github_username %}
+    <a href="https://github.com/{{ site.author.github_username }}">
+      <i class="fa fa-github"></i> 
+    </a>
+	{% endif %}
+</div>
 
 
 
