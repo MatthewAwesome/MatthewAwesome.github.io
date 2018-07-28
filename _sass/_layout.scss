@@ -9,19 +9,37 @@
   padding-right: 1.2rem;
   margin-left:  auto;
   margin-right: auto;
-  background-color:white;
+  background-color:transparent;
   padding-top:5px; 
   margin-top:10px; 
+  display: flex; 
+  flex-direction:column; 
+  justify-content:space-between; 
+  padding-bottom:5px;
+  height:100vh;
+  overflow: hidden;
+  overflow-x: hidden;
+  ::-webkit-scrollbar {
+    width: 0px;  
+    background: transparent; 
+}
+}
+
+.flexy{
+	height:95vh;
+	overflow-y:scroll; 
+	overflow-x: hidden;
 }
 
 footer {
   margin-bottom: 2rem;
+  background-color:transparent;
 }
 
 // changeing based on 
 
 .fa{
-	color:$gray-3; 
 	padding:2px 2px; 
+	font-size:1.25rem;
 }
 
