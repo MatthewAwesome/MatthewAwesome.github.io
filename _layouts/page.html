@@ -1,8 +1,35 @@
----
-layout: default
----
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-<article class="page">
-  <h1 class="page-title">{{ page.title }}</h1>
-  {{ content }}
-</article>
+	Pages can have backgroun images, too. 
+
+	We should add background image as a front matter field. 
+-->
+<html>
+
+{% include head.html %}
+
+<body>
+  {% include header.html %} 
+		<!-- Main -->
+		<div id="{{page.style}}" class="alt">
+		<!-- background image -->
+		<div class="{{page.style}}_background-image">	
+		</div>
+		<!-- One -->
+		<section id="one">
+			<div class="inner">
+				<header class="major">
+					<h1>{{ page.title }}</h1>
+				</header>
+				{% if page.image %}<span class="image pagetop"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
+				<p>{{ content }}</p>
+			</div>
+		</section>
+		</div>
+  {% include footer.html %}
+</body>
+</html>
