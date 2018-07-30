@@ -6,6 +6,8 @@ image: assets/images/mattPhoto.jpg
 tiled: true
 backgroundimage: assets/images/banner_new.jpg
 style: bio
+nav-menu: true
+menu-title: bio
 ---
 I am passionate about making the World a Better Place, One Good Idea at a time! 
 
