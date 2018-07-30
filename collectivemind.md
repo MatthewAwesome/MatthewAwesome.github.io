@@ -7,20 +7,11 @@ tiled: true
 backgroundimage: assets/images/banner_new.jpg
 style: bio
 ---
-I am passionate about making the World a Better Place, One Good Idea at a time! 
+It is highly conceivable that social networking can be used to motivate interactions between parties otherwise unlikely to connect, thereby transcending societal and/or geographical borders!
 
-My Ideas span an array of disciplines including: Neuroscience, Ophthalmology, 
-Neurology, Virtual Reality, Social Networking, Education, and the Arts.
+Moreover, such a platform can unite forward thinkers and gets people of all ages genuinely excited about sharing and consuming knowledge, our most valuable resource!
 
-Some questions of interest: 
+To this end, I have prototyped a social network that combines the depth of Wikipedia with the 
+aesthetic charm of Instagram. 
 
-Is it possible to combine neuroscience and virtual reality be combined to produce unprecedented advances 
-in learning? 
-
-Might social networking principles be adaptable such that Advances in Knowledge can be 
-catalogued and discussed in real-time, similarly to how News and Events currently diffuse across social networks? 
-
-Additionally, I'm am developing ophthalmic imaging technologies to facilitate the early detection 
-of devasting diseases such as Alzheimer's disease.
-
-Take a look at my Current Projects find out more!
+Check out CollectiveMind!
