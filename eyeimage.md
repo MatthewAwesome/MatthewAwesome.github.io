@@ -8,8 +8,16 @@ backgroundimage: assets/images/banner_new.jpg
 style: eyeimage
 ---
 
-I am developing technologies to propel ophthalmic imaging into the realm 
-of Precision Medicine. 
+Can ophthalmic imaging be propelled into the realm 
+of Precision Medicine?
+
+That is what I see to do! 
+
+The eye is essentially a window to the body, and we can leverage this 
+advantage to survey disease with unprecedented resolution!
+
+I have authored several provisional patents toward this objective. If 
+you'd like to know more, let's get in touch!
 
 
 
