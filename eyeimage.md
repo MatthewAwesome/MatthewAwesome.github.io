@@ -11,8 +11,6 @@ style: eyeimage
 Can ophthalmic imaging be propelled into the realm 
 of Precision Medicine?
 
-That is what I see to do! 
-
 The eye is essentially a window to the body, and we can leverage this 
 advantage to survey disease with unprecedented resolution!
 
