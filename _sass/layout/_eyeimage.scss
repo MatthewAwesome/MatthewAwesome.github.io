@@ -9,6 +9,12 @@
 	#eyeimage {
 		
 		position:relative;
+		
+
+		.subhead{
+			font-weight:100; 
+			font-size: 40pt; 
+		}
 
 		.eyeimage_background-image{
 		  position: absolute;
@@ -26,7 +32,7 @@
 		}
 
 		img{
-			width: 20%;
+			width: 25%;
 		}
 		> * {
 			border-top: solid 1px _palette(border);
