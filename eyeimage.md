@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Precision Diagnostics via Ophthalmic Imgaing.
+title: Precision Diagnostics via Ophthalmic Imaging.
 description: Better Diagnostics = Better Medicine! 
 image: assets/images/vasc.jpg
 tiled: true
