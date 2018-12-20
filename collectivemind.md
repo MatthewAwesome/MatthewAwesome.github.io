@@ -6,7 +6,7 @@ image: assets/images/collectivemind.jpg
 tiled: true
 backgroundimage: assets/images/banner_new.jpg
 style: bio
-order: 3
+order: 4
 ---
 It is highly conceivable that social networking can be used to motivate interactions between parties otherwise unlikely to connect, thereby transcending societal and/or geographical borders!
 
