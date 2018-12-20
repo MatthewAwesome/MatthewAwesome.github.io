@@ -8,14 +8,13 @@ backgroundimage: assets/images/banner_new.jpg
 style: eyeimage
 order: 4
 ---
-<header class="minor">
+
 <h2>Can ophthalmic imaging be propelled into the realm of Precision Medicine?</h2>
-</header>
 
-<h4>The eye is essentially a window to the body, and we can leverage this advantage to survey disease with unprecedented resolution!</h4>
+The eye is essentially a window to the body, and we can leverage this advantage to survey disease with unprecedented resolution!
 
-<h4>I have authored several provisional patents toward this objective. If 
-you'd like to know more, let's get in touch!</h4>
+I have authored several provisional patents toward this objective. If 
+you'd like to know more, let's get in touch!
 
 
 
