@@ -14,5 +14,3 @@ Moreover, such a platform can unite forward thinkers and gets people of all ages
 
 To this end, I have prototyped a social network that combines the depth of Wikipedia with the 
 aesthetic charm of Instagram. 
-
-Check out CollectiveMind!
