@@ -23,7 +23,9 @@ In response to this shortcoming, my mission at present is to further propel opht
 
 Pursuantly, precision medicine requires innovation towards increasingly specific diagnostic techniques. To this end, I have developed and provisionally patented novel ophthalmic imaging techniques that allow disease-specific retinal biomarkers to be obtained with exceptional fidelity. By obtaining these disease-specific biomarkers, diseases like Alzheimer’s disease can be diagnosed earlier, and with unprecedented specificity. 
 
-If you'd like to know more, let's get in touch! Email me at [matthew.p.ellis23@gmail.com](mailto:matthew.p.ellis23@gmail.com)
+If you'd like to know more, let's get in touch!
+
+Email me at [matthew.p.ellis23@gmail.com](mailto:matthew.p.ellis23@gmail.com)
 
 Also, [My CV is linked here.](https://docs.google.com/document/d/1KqjHV-hZXI_aqlWAjU4s1TceD7v5C8q_s4P6L98AZZw/edit?usp=sharing)
 

@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: page_no_image
 title: MusicVR
 description: Can Virtual and/or Augmented Reality Enrich our Innate Synesthetic Capabilities?
-image: assets/images/synesthesia.jpg
 tiled: true
+image: assets/images/synesthesia.jpg
 backgroundimage: assets/images/banner_new.jpg
 style: bio
 order: 6
@@ -11,8 +11,8 @@ order: 6
 
 <h2>Can Virtual and/or Augmented Reality Enrich our Innate Synesthetic Capabilities?</h2> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GKxqWveoY7A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GKxqWveoY7A" align="center" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 Imagine being able to see the spatiotemporal structure of any song that crosses your ears. Sensory blending of this sort falls into the realm of synesthesia. There are, in fact, a select few people, synesthesics, who do not require imagination to conceive the above; they experience it as part of their reality!
 
 Such is a very powerful notion. Underpinning synesthesia is sensory crossover, a fundamental feature of our neural architecture. The brain integrates stimuli from all available senses, and by doing so, constructs reality. Synesthesia is thus a feat that most of us are capable of. However, and for whatever reason, our innate synesthetic abilities tend to remain dormant. Need this be the rule?
