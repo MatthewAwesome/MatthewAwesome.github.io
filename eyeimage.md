@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Neuroptica: Eye imaging, done smarter
+title: Neuroptica. Eye imaging, done smarter.
 description: Smart-diagnostics for Alzheimer's Disease
 image: assets/images/vasc.jpg
 tiled: true
