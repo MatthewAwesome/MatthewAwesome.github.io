@@ -6,7 +6,7 @@ tiled: true
 image: assets/images/synesthesia.jpg
 backgroundimage: assets/images/banner_new.jpg
 style: bio
-order: 6
+order: 4
 ---
 
 <h2>Can Virtual and/or Augmented Reality Enrich our Innate Synesthetic Capabilities?</h2> 
