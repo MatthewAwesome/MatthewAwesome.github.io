@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Neuroptica
-description:  Eye imaging, done smarter.
+title: Neuroptica: Eye imaging, done smarter.
+description:  
 image: assets/images/vasc.jpg
 tiled: true
 backgroundimage: assets/images/banner_new.jpg
