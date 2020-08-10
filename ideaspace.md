@@ -6,7 +6,7 @@ image: assets/images/ideaspace.jpg
 tiled: true
 backgroundimage: assets/images/banner_new.jpg
 style: bio
-order: 2
+order: 5
 ---
 <h3>WHAT</h3>
 IdeaSpace provides a multidimensional, immersive environment  in which to explore the fabric of humanity’s collective intellectual record.
