@@ -9,7 +9,6 @@ style: bio
 nav-menu: true
 menu-title: bio
 order: 1
-projects:
 ---
 <h2>Passionate about making the World a Better Place, One Good Idea at a time!</h2> 
 
