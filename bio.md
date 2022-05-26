@@ -34,9 +34,8 @@ Additionally, I'm am developing ophthalmic imaging technologies to facilitate th
 of devasting diseases such as Alzheimer's disease.
 
 
-<h2>
 Take a look at my [Current Projects](https://matthewawesome.github.io/#one) find out more!
-</h2>
+
 
 
 
